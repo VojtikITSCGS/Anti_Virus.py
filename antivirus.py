@@ -29,7 +29,7 @@ def scan_directory(directory):
             if file_hash in known_viruses:
                 print(f"⚠️ VIRUS NALEZEN: {filepath}")
             else:
-                print("✅ OK")
+                print("✅ Čisté")
 
 if __name__ == "__main__":
     slozka = input("Zadej cestu ke složce ke skenování: ")
