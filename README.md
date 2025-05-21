@@ -6,7 +6,7 @@ How to set up:
 
 2: Download 1 version of the antivirus.py
 
-3: Right click your mouse in blank space and click on "Open in Terminal"
+3: Right click your mouse in blank space in folder where the file is and then click on "Open in Terminal"
 
 4: Insert this: "pyinstaller --onefile antivirusEN.py" or "pyinstaller --onefile antivirusCZ.py"
 
