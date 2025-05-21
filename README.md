@@ -1,7 +1,6 @@
 # Anti_Virus.py
 An .py anti virus!
 How to set up:
-
 1: Go to cmd and type "pip install pyinstaller"
 
 2: Download 1 version of the antivirus.py
